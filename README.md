@@ -1,6 +1,6 @@
-<h1 align="left"> Hey there👋, this is Harin </h1>
-<h2 align="left"> iam Currently doing my Masters in robotics at University of Birmingham </h2>
-<h3 align="left"> into machine learning, computer vision and intelligent automation</h3>
+<h1 align="left"> 👋 Hey there, this is Harin </h1>
+<h2 align="left"> Currently pursuing my Masters in robotics at University of Birmingham </h2>
+<h3 align="left"> into machine learning, computer vision </h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif">
 
 
@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/harin22tweets" target="blank"><img src="https://img.shields.io/twitter/follow/harin22tweets?logo=twitter&style=for-the-badge" alt="harin22tweets" /></a> </p>
 
-- 🌱 I’m currently learning **Open CV**
+- 🌱 I’m currently into Data analysis and Machine learning
 
 - 📝 I regularly write articles on [https://medium.com/@h22alchemist](https://medium.com/@h22alchemist)
 
 - 💬 Ask me about **Deep learning and Computer vision**
 
-- 📫 reach me out here **harinas22@gmail.com**
+- 📫 Lets connect! reach me out here **connectharin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
