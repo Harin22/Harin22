@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harin22&label=Profile%20views&color=0e75b6&style=flat" alt="harin22" /> </p>
 
-<p align="left"> <a href="https://twitter.com/harin22tweets" target="blank"><img src="https://img.shields.io/twitter/follow/harin22tweets?logo=twitter&style=for-the-badge" alt="harin22tweets" /></a> </p>
-
 - 🌱 I’m currently into Data analysis and Machine learning
 
 - 📝 I regularly write articles on [https://medium.com/@h22alchemist](https://medium.com/@h22alchemist)
